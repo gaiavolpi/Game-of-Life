@@ -6,3 +6,5 @@
 
 *'patterns'* folder contains a database of the patterns we used as seed in our project, they're saved in .rle format and decoded by us with the *'rle_decoder'* function (inside create_pattern.py).
 
+Authors: Giancarlo Saran Gattorno, Lucrezia Rossi, Alberto Salvador, Gaia Volpi
+
