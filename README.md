@@ -1,5 +1,6 @@
 # Implementation of Conway's Game of Life
 > Group project for Laboratory of Computational Physics course
+
 > Authors: Giancarlo Saran Gattorno, Lucrezia Rossi, Alberto Salvador, Gaia Volpi
 
 ### Project description 
